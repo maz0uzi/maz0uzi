@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maz0uzi
 - 👀 I’m interested in creating games
-- 🌱 I’m currently using UE
+- 🌱 Unreal Engine Game Designer
 - 💞️ I’m looking to collaborate on games
 - 📫 How to reach me i@hiflx.com
 
